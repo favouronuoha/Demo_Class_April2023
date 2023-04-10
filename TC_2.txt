@@ -1,0 +1,4 @@
+Learning GITHUB
+step 1: download the app
+step 2: install it
+step 3: get git bas
